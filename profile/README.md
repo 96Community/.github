@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./assets/96-community-banner.png" alt="96 Community" width="100%">
+</p>
+
 # 96Community
 
 ### Technology for real-world problems.
