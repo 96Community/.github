@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/96-community-banner.png" alt="96 Community" width="100%">
+  <img src="ChatGPT Image Aug 12, 2026, 07_35_24 PM.png" alt="96 Community" width="100%">
 </p>
 
 # 96Community
